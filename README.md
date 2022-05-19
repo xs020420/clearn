@@ -1,2 +1,3 @@
 # clearn
-some small
+env used for c++ learning
+
